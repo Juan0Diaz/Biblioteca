@@ -9,6 +9,7 @@ namespace BibliotecaLibros
     // ═══════════════════════════════════════════
     public class Libro
     {
+        // Propiedades del libro
         public int Id { get; set; }
         public string Titulo { get; set; }
         public string Autor { get; set; }
