@@ -44,7 +44,7 @@ namespace BibliotecaLibros
         // ⚠️ IMPORTANTE: Reemplaza estos valores con los datos de tu proyecto en Supabase.
         // Los encuentras en: Tu proyecto → "Connect" → "Session pooler"
         private readonly string _connectionString =
-            "Host=db.xvhlrdgujqdcfambmojk.supabase.co;" +
+            "Host=aws-0-us-west-2.pooler.supabase.com;" +
             "Port=5432;" +
             "Database=postgres;" +
             "Username=postgres.xvhlrdgujqdcfambmojk;" +
